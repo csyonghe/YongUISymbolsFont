@@ -1,0 +1,412 @@
+SplineFontDB: 3.2
+FontName: YongUISymbols
+FullName: YongUISymbols
+FamilyName: YongUISymbols
+Weight: Regular
+Copyright: Copyright (c) 2020, Yong He
+UComments: "2020-5-11: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: 0
+UnderlineWidth: 51
+Ascent: 819
+Descent: 205
+InvalidEm: 0
+LayerCount: 4
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+Layer: 2 0 "Back 2" 1
+Layer: 3 0 "Back 3" 1
+XUID: [1021 723 1022530506 12892]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1589266145
+ModificationTime: 1589274745
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 92
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 23 11
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 18
+
+StartChar: H
+Encoding: 72 72 0
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+Validated: 1
+EndChar
+
+StartChar: three
+Encoding: 51 51 1
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+666 686 m 1
+ 666 -72 l 1
+ 358 307 l 1
+ 666 686 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: one
+Encoding: 49 49 2
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+186 649 m 1
+ 857 649 l 1
+ 857 540 l 1
+ 857 521 l 1
+ 857 42 l 1
+ 857 -18 l 1
+ 857 -18 l 1
+ 797 -18 l 1
+ 797 -18 l 1
+ 247 -18 l 1
+ 247 -18 l 1
+ 186 -18 l 1
+ 186 -18 l 1
+ 186 42 l 1
+ 186 521 l 1
+ 186 649 l 1
+797 42 m 1
+ 797 521 l 1
+ 247 521 l 1
+ 247 42 l 1
+ 797 42 l 1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: two
+Encoding: 50 50 3
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+395 647 m 1
+ 858 647 l 1
+ 858 571 l 1
+ 858 559 l 1
+ 858 229 l 1
+ 858 187 l 1
+ 816 187 l 1
+ 649 187 l 1
+ 649 16 l 1
+ 649 -26 l 1
+ 607 -26 l 1
+ 228 -26 l 1
+ 186 -26 l 1
+ 186 16 l 1
+ 186 345 l 1
+ 186 433 l 1
+ 395 433 l 1
+ 395 559 l 1
+ 395 647 l 1
+607 16 m 1
+ 607 345 l 1
+ 228 345 l 1
+ 228 16 l 1
+ 607 16 l 1
+816 229 m 1
+ 816 559 l 1
+ 437 559 l 1
+ 437 433 l 1
+ 649 433 l 1
+ 649 358 l 1
+ 649 345 l 1
+ 649 229 l 1
+ 816 229 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: zero
+Encoding: 48 48 4
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+186 -18 m 1
+ 186 42 l 1
+ 857 42 l 1
+ 857 -18 l 1
+ 186 -18 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: a
+Encoding: 97 97 5
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+790 600 m 1
+ 791 411 l 1
+ 466 14 l 1
+ 233 246 l 1
+ 233 403 l 1
+ 460 201 l 1
+ 790 600 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: six
+Encoding: 54 54 6
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+133 461 m 1
+ 891 461 l 1
+ 512 154 l 1
+ 133 461 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: four
+Encoding: 52 52 7
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+358 -72 m 1
+ 358 686 l 1
+ 666 307 l 1
+ 358 -72 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: five
+Encoding: 53 53 8
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+891 154 m 1
+ 133 154 l 1
+ 512 461 l 1
+ 891 154 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: seven
+Encoding: 55 55 9
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+554 -72 m 1
+ 247 307 l 1
+ 554 686 l 1
+ 554 411 l 1
+ 777 686 l 1
+ 777 -72 l 1
+ 554 203 l 1
+ 554 -72 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: eight
+Encoding: 56 56 10
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+777 307 m 1
+ 470 -72 l 1
+ 470 203 l 1
+ 247 -72 l 1
+ 247 686 l 1
+ 470 411 l 1
+ 470 686 l 1
+ 777 307 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: nine
+Encoding: 57 57 11
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+273 686 m 1
+ 273 330 l 1
+ 562 686 l 1
+ 562 411 l 1
+ 784 686 l 1
+ 784 -72 l 1
+ 562 203 l 1
+ 562 -72 l 1
+ 273 285 l 1
+ 273 -72 l 1
+ 240 -72 l 1
+ 240 686 l 1
+ 273 686 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: colon
+Encoding: 58 58 12
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+751 686 m 1
+ 784 686 l 1
+ 784 -72 l 1
+ 751 -72 l 1
+ 751 285 l 1
+ 462 -72 l 1
+ 462 203 l 1
+ 240 -72 l 1
+ 240 686 l 1
+ 462 411 l 1
+ 462 686 l 1
+ 751 330 l 1
+ 751 686 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 13
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+318 -71 m 1
+ 318 686 l 1
+ 439 686 l 1
+ 439 -71 l 1
+ 318 -71 l 1
+614 -71 m 1
+ 614 686 l 1
+ 734 686 l 1
+ 734 -71 l 1
+ 614 -71 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: less
+Encoding: 60 60 14
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+184 -71 m 1
+ 184 686 l 1
+ 840 686 l 1
+ 840 -71 l 1
+ 184 -71 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: equal
+Encoding: 61 61 15
+Width: 1024
+Flags: HW
+LayerCount: 4
+Fore
+SplineSet
+184 291 m 0
+ 184 472 331 618 512 618 c 0
+ 693 618 839 472 839 291 c 0
+ 839 110 693 -37 512 -37 c 0
+ 331 -37 184 110 184 291 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: r
+Encoding: 114 114 16
+Width: 1024
+Flags: MW
+LayerCount: 4
+Fore
+SplineSet
+868 611 m 1
+ 563 305 l 1
+ 861 7 l 1
+ 820 -34 l 1
+ 522 264 l 1
+ 224 -34 l 1
+ 183 7 l 1
+ 481 305 l 1
+ 176 611 l 1
+ 217 652 l 1
+ 522 346 l 1
+ 827 652 l 1
+ 868 611 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: A
+Encoding: 65 65 17
+Width: 1024
+Flags: HO
+LayerCount: 4
+Fore
+SplineSet
+0 821 m 1
+ 337.955037983 814.512569779 675.938009552 817.636742844 1024 817 c 1
+ 1028 -199 l 1
+ 637.357606163 -151.836353292 640.806222743 -319.049513491 -12 0 c 1
+ 0 821 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
